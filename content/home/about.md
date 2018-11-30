@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Statistics"
   institution = "University of Auckland"
-  year = 2019 (expected)
+  year = 2019
 
 [[education.courses]]
   course = "BSC(Hons) in Statistics"
